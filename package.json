@@ -1,0 +1,22 @@
+{
+  "name": "ng-nice-select",
+  "version": "1.3.1",
+  "peerDependencies": {
+    "@angular/common": ">= 4.0.0",
+    "@angular/core": ">= 4.0.0"
+  },
+  "dependencies": {
+    "jquery-nice-select": "^1.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theturboboy/ng-nice-select.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theturboboy/ng-nice-select/issues"
+  },
+  "keywords": ["angular", "jquery", "nice-select"],
+  "author": "Andrew Gaidukevich",
+  "license": "MIT",
+  "homepage": "https://github.com/theturboboy/ng-nice-select"
+}
